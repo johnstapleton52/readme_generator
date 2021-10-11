@@ -1,44 +1,43 @@
 
-    # John's Project
+# ReadMe Generator
 
-    ## Description
-    It's a project that I made using computer
-
-
-    ## Table of Contents
-    [Installation](###### Installation)
-    [Usage](###### Usage)
-    [License](###### License)
-    [Contributing](###### Contributing)
-    [Tests](###### Tests)
-    [Questions](###### Questions)
+## Description
+This application receives input from the command line and automatically generates a professional ReadMe.md file and places it in the root directory of the repository.
 
 
-
-    ###### Installation
-    You are going to click the download button and follow install commands
-
-
-    ###### Usage
-    You are going to use it using the intuitive controls embedded in the program
-
-
-    ###### License
-    BSD
+## Table of Contents
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
+[Questions](#questions)  
 
 
-    ###### Contributing
-    undefined
+
+## Installation
+This application requires Inquirer and fs to run. The command <npm install> will automatically install the required dependencies after cloning the repository.
 
 
-    ###### Tests
-    I honestly don't even know what the hell test instructions are but I was told to include them in this assignment, so here they are.
+## Usage
+To generate a ReadMe file, navigate to the root directory in the command line and run the command <node index> and answer the following prompts accordingly. 
 
 
-    ###### Questions
-    Feel free to contact me through either of the methods listed below:
-    email: [johnstapleton52@gmail.com](johnstapleton52@gmail.com)
-    GitHub: [johnstapleton52](https://github.com/johnstapleton52)
+## License
+This application is covered under the MIT license.
+
+
+## Contributing
+undefined
+
+
+## Tests
+I'm not sure what testing is, but I was instructed to include it in the ReadMe template
+
+
+## Questions
+Feel free to contact me through either of the methods listed below:  
+email: [johnstapleton52@gmail.com](johnstapleton52@gmail.com)   
+GitHub: [johnstapleton52](https://github.com/johnstapleton52)  
 
    
-    

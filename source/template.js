@@ -1,47 +1,47 @@
 module.exports = (data) => {
     return `
-    # ${data.project_title}
+# ${data.project_title}
 
-    ## Description
-    ${data.description}
-
-
-    ## Table of Contents
-    [Installation](###### Installation)
-    [Usage](###### Usage)
-    [License](###### License)
-    [Contributing](###### Contributing)
-    [Tests](###### Tests)
-    [Questions](###### Questions)
+## Description
+${data.description}
 
 
-
-    ###### Installation
-    ${data.installation_instructions}
-
-
-    ###### Usage
-    ${data.usage_information}
-
-
-    ###### License
-    ${data.license}
+## Table of Contents
+[Installation](#installation)  
+[Usage](#usage)  
+[License](#license)  
+[Contributing](#contributing)  
+[Tests](#tests)  
+[Questions](#questions)  
 
 
-    ###### Contributing
-    ${data.contibution_guidelines}
+
+## Installation
+${data.installation_instructions}
 
 
-    ###### Tests
-    ${data.test_instructions}
+## Usage
+${data.usage_information}
 
 
-    ###### Questions
-    Feel free to contact me through either of the methods listed below:
-    email: [${data.email}](${data.email})
-    GitHub: [${data.github_username}](https://github.com/${data.github_username})
+## License
+This application is covered under the ${data.license} license.
+
+
+## Contributing
+${data.contibution_guidelines}
+
+
+## Tests
+${data.test_instructions}
+
+
+## Questions
+Feel free to contact me through either of the methods listed below:  
+email: [${data.email}](${data.email})   
+GitHub: [${data.github_username}](https://github.com/${data.github_username})  
 
    
-    `;
+`;
 
 };
