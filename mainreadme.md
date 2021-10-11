@@ -5,4 +5,5 @@ This application uses Inquirer to receive command line input and generate an org
 
 
 ## Sources
-GitHub Repository: [readme_generator]('https://github.com/johnstapleton52/readme_generator')
+GitHub Repository: [readme generator]('https://johnstapleton52.github.io/readme_generator/')
+Demonstration Video: [Click Here](https://watch.screencastify.com/v/QlGSvm41sFBNy9aEyx1G)

@@ -2,7 +2,7 @@
 # ReadMe Generator
 
 ## Description
-This application receives input from the command line and automatically generates a professional ReadMe.md file and places it in the root directory of the repository.
+This program receives input from the command line and inserts it into a ReadMe template in order to quickly generate a clean and professional ReadMe file and insert it into the root directory of the project.
 
 
 ## Table of Contents
@@ -16,15 +16,15 @@ This application receives input from the command line and automatically generate
 
 
 ## Installation
-This application requires Inquirer and fs to run. The command <npm install> will automatically install the required dependencies after cloning the repository.
+Clone the repository to your machine and run the command <npm install> to download the necessary dependencies (inquirer and fs).
 
 
 ## Usage
-To generate a ReadMe file, navigate to the root directory in the command line and run the command <node index> and answer the following prompts accordingly. 
+Navigate to the root directory of the project in commmand line and run the command <node index> or <node index.js> and then answer the prompts that follow.
 
 
 ## License
-This application is covered under the MIT license.
+This application is covered under the No License license.
 
 
 ## Contributing
@@ -32,7 +32,7 @@ undefined
 
 
 ## Tests
-I'm not sure what testing is, but I was instructed to include it in the ReadMe template
+I'm not entirely sure what test instructions would be.
 
 
 ## Questions
