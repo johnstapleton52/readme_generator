@@ -37,6 +37,7 @@ module.exports = (data) => {
 
 
     ###### Questions
+    Feel free to contact me through either of the methods listed below:
     email: [${data.email}](${data.email})
     GitHub: [${data.github_username}](https://github.com/${data.github_username})
 
